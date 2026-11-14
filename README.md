@@ -1,7 +1,7 @@
 # smx-global
 StepManiaX noteskins made to work on SM5/Etterna/ITGMania/OutFox
 
-These are the StepManiaX NoteSkins made to work perfectly on StepMania 5, Etterna, ITGMania, and Project OutFox. For legal reasons, instead of the white line receptor, these noteskins all use arrow receptors, and the center is enlarged a bit to make it the same size as the arrows. If any adjustments are needed, let me know.
+These are the StepManiaX NoteSkins made to work perfectly on StepMania 5, Etterna, ITGMania, and Project OutFox. For legal reasons, instead of the white line receptor, these noteskins all use arrow receptors, and the center is enlarged a bit to make it the same size as the arrows. Custom colored roll graphics were added to the simple and team noteskins. If any adjustments are needed, let me know.
 
 ## Included NoteSkins
 * Beat
