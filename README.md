@@ -24,6 +24,8 @@ These are the StepManiaX NoteSkins made to work perfectly on StepMania 5, Ettern
 # Installation
 To install these on Etterna or Project OutFox, place the noteskins in the "NoteSkins/global" or "Appearance/NoteSkins/global" folder respectively. Compatible with dance (4k, 6k), pump (5k), smx (5k), and techno (4k, 5k, 8k, 9k) modes. To install these on ITGMania, place the noteskins in the respective game mode folder.
 
+Important warning: While they technically do support the SMX mode in Project OutFox, please support the creators of StepManiaX by not using them on that game mode.
+
 # Special Thanks
 * The StepManiaX team for designing the original NoteSkins.
 * [DarkBahamut162](https://github.com/DarkBahamut162) - for putting together the preliminary versions of most of the NoteSkins.
